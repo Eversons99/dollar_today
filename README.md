@@ -3,7 +3,7 @@ Simple script to consult the dollar every day and send a message to the contact 
 
 # How to use
 ✔️ Fork or clone this repository <br>
-✔️ Create .env file, declare variables DOLLAR_TOKEN and DOLLAR_CHAT_ID with your data \n
-✔️Run the script with node \n
+✔️ Create .env file, declare variables DOLLAR_TOKEN and DOLLAR_CHAT_ID with your data <br>
+✔️Run the script with node JS <br>
 
 ⚠️ This Program assumes you already have a bot or chat set up on Telegram  ⚠️
